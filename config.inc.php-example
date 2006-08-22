@@ -1,0 +1,7 @@
+<?php
+define('DSTATS_DB_HOSTNAME', '');
+define('DSTATS_DB_PORT', 3306);
+define('DSTATS_DB_USERNAME', '');
+define('DSTATS_DB_PASSWORD', '');
+define('DSTATS_DB_SCHEMATA', '');
+?>
