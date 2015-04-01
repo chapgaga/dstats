@@ -1,0 +1,1 @@
+dstats is a simple tool helps you to get an overview of your MySQL server.
